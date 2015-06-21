@@ -1,5 +1,4 @@
-#um livro de código que descreve as variáveis, os dados e as transformações ou de trabalho que você realizou para limpar os dados chamados.
-Input Data
+#Input Data
 The dataset includes the following files:
 - 'README.txt'
 - 'features_info.txt': Shows information about the variables used on the feature vector.
